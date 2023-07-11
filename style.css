@@ -202,10 +202,54 @@
   }
   .media-post{
     width: 215px;
-  
   }
-  
-  
+
+
+  /* discount info section */
+  .discount{
+    width: 896px;
+    height: 349px;
+ background-image: url(images/anthony-fomin-h7_SyoBhHF0-unsplash.jpg),linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5));
+ background-blend-mode: overlay;;
+background-size: cover;
+background-position: center;
+margin: 0 auto;
+display: flex;
+text-align: center;
+align-items: center;
+justify-content: space-around;
+}
+
+.redflower-img{
+
+width: 280px;
+
+}
+.discount-info h1{
+font-size: 60px;
+color: white;
+text-shadow: 4px 2px 10px black;
+}
+.discount-info h2{
+color: white;
+  font-size:45px ;
+  text-shadow: 4px 2px 10px black;
+}
+.discount-info p{
+font-size: 15px;
+color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
   /* deal search section */
   
   
