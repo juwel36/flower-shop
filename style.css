@@ -11,13 +11,12 @@
   display: flex;
   justify-content:center;
   align-items: center;
-  background:rgba(229, 84, 115, 0.10);
+  background:rgba(181, 56, 83, 0.34);
   padding-left: 140px;
   gap: 181px;
   text-align: left;
-  
-  
   }
+
   .header-tag{
     color: #272727;
     font-size: 50px;
@@ -37,7 +36,7 @@
     line-height: normal;
     padding: 15px 30px ;
     border: none;
-    margin:0 0 0 0px;
+    margin: 0 0 0 0px;
   }
   .main-photo{
   width: 420px;
@@ -122,6 +121,7 @@
     text-decoration-line: underline;
   margin-top:33px ;
   }
+
   
   /* sign up secion */
   
@@ -209,7 +209,7 @@
   .discount{
     width: 896px;
     height: 349px;
- background-image: url(images/anthony-fomin-h7_SyoBhHF0-unsplash.jpg),linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5));
+ background-image: url(images/anthony-fomin-h7_SyoBhHF0-unsplash.jpg),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6));
  background-blend-mode: overlay;;
 background-size: cover;
 background-position: center;
@@ -228,7 +228,7 @@ width: 280px;
 .discount-info h1{
 font-size: 60px;
 color: white;
-text-shadow: 4px 2px 10px black;
+text-shadow: 4px 2px 20px black;
 }
 .discount-info h2{
 color: white;
@@ -240,19 +240,7 @@ font-size: 15px;
 color: white;
 }
 
-
-
-
-
-
-
-
-
-
-
   /* deal search section */
-  
-  
   
   .deal-section {
     background-image: url(images/Rectangle\ 9.png);
@@ -322,10 +310,7 @@ color: white;
   
   }
   .about-shop p{
-  
-    color: rgba(255, 255, 255, 0.40);
-  
-  
+  color: rgba(255, 255, 255, 0.40);
   font-size: 6px;
   font-style: normal;
   font-weight: 400;
@@ -334,7 +319,6 @@ color: white;
   
   .about-shop h6{
     color: rgba(255, 255, 255, 0.90);
-    
     font-size: 10px;
     font-style: normal;
     font-weight: 400;
